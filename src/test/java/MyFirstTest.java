@@ -15,7 +15,7 @@ Comment
     // One Row comment
     @Test
     public void firstTest() {
-        System.out.println("Hello, corona!");
+        System.out.println("Hello, hello!");
         int sum = (sumTwoDigits(15, 20));
         System.out.println("Sum is: " + sum);
         System.out.println(sumTwoDigits(20, 25)); // CTRL = / (comment row or many rows)
