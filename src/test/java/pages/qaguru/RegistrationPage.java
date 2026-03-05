@@ -43,3 +43,4 @@ public class RegistrationPage {
         baseFunc.click(REGISTER_BTN);
     }
 }
+

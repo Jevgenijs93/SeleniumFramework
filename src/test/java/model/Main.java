@@ -47,3 +47,4 @@ public class Main {
         this.temp_max = temp_max;
     }
 }
+

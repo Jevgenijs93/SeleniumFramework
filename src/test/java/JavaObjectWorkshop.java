@@ -38,3 +38,4 @@ public class JavaObjectWorkshop {
         qa2.printInfo();
     }
 }
+

@@ -67,3 +67,4 @@ public class PageObjectTest {
         Assertions.assertEquals(getTextOfArticle, articleTitleOfOpenedPage, "Wrong title opened by text");
     }
 }
+

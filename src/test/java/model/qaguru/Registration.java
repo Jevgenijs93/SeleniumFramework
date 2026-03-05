@@ -38,3 +38,4 @@ public class Registration {
         this.course = course;
     }
 }
+

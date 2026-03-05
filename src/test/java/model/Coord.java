@@ -20,3 +20,4 @@ public class Coord {
         this.lat = lat;
     }
 }
+

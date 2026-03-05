@@ -20,3 +20,4 @@ public class SuccessPage {
         return  baseFunc.getText(SUCCESS_TXT);
     }
 }
+

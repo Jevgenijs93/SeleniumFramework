@@ -43,3 +43,4 @@ public class ArticlePage {
         return CommentCountToGetText;
     }
 }
+

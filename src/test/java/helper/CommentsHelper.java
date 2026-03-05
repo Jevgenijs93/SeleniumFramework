@@ -9,3 +9,4 @@ public class CommentsHelper {
         return Integer.parseInt(commentsCount);
     }
 }
+
