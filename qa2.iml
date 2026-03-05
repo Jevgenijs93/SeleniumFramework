@@ -40,7 +40,7 @@
     <orderEntry type="library" name="Maven: io.cucumber:cucumber-java:6.9.1" level="project" />
     <orderEntry type="library" name="Maven: io.cucumber:cucumber-core:6.9.1" level="project" />
     <orderEntry type="library" name="Maven: io.cucumber:cucumber-gherkin:6.9.1" level="project" />
-    <orderEntry type="library" name="Maven: io.cucumber:cucumber-gherkin-messages:6.9.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-gherkin-messages:6.9.1" level="project"/>
     <orderEntry type="library" name="Maven: io.cucumber:messages:13.2.1" level="project" />
     <orderEntry type="library" name="Maven: io.cucumber:tag-expressions:3.0.0" level="project" />
     <orderEntry type="library" name="Maven: io.cucumber:cucumber-expressions:10.3.0" level="project" />
